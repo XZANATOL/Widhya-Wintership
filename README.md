@@ -24,3 +24,7 @@ Here I was introduced to more advanced Flask capabilites, such as:
 > Configuring access methods to a resource (GET, POST, PUT, & DELETE). <br/>
 > Configuring basic security HTTP authentication using flask-httpauth module. <br/>
 > Error handling of some messages. <br/>
+
+# Project 4 - Create & Deploy a Static Website on Github
+This was the last project in the intership where I had to build my own portofolio website from scratch. I used HTML and custom CSS functions to define the suitable properties for each element, Then uploaded the files on a seperate repository to be able to use Github Pages on it. <br/>
+Link to the repo: https://github.com/XZANATOL/xzanatol.github.io

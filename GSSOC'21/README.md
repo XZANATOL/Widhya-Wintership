@@ -21,7 +21,7 @@ Repo: [Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-
 
 6) [Twitter Video Downloader](https://github.com/avinashkranjan/Amazing-Python-Scripts/tree/master/Twitter_Video_Downloader) : A GUI based script used to download Twitter videos
 
-7) [Base-N Calculator](https://github.com/avinashkranjan/Amazing-Python-Scripts/tree/master/Vector_Calc) : A GUI based script used to fetch relations between 2 vectors along with the properties of each vector.
+7) [Vector Calculator](https://github.com/avinashkranjan/Amazing-Python-Scripts/tree/master/Vector_Calc) : A GUI based script used to fetch relations between 2 vectors along with the properties of each vector.
 
 ## Rotten Scripts
 
